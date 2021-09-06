@@ -1,0 +1,14 @@
+my-props:
+  simpleProp: simplePropValue
+  arrayProps: 1,2,3,4,5
+  listProp1:
+    - name: Solin
+      value: SolinValue
+    - name: Tom
+      value: TomValue
+  listProp2:
+    - config1Value1
+    - config2Value2
+  mapProps:
+    key1: value1
+    key2: value2
